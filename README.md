@@ -35,5 +35,4 @@ There are four models in the ML module, though more can be added if desired:
 
 # results and datasets
 The datasets used to train and classify the models, the respective results of those classifications, and
-all of the raw waveform datasets used for feature extraction can be found at https://github.com/tigerseclab/SAC25_CANfingerprinting
-
+all of the raw waveform datasets used for feature extraction are too large to be shared here and can be accessed upon request.
